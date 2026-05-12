@@ -1,0 +1,10 @@
+番茄主题占位素材来源
+
+1) tomato32_plant.png / tomato32ripe_plant.png
+   - 来源：https://opengameart.org/content/32-pixels-tomato-plants
+   - 许可：作者标注为 CC0（公共领域），可自由用于商业项目。
+
+2) tomato_mascot_logo.png
+   - 为项目生成的 Q 版番茄角色占位图（便于统一主视觉）；正式发行可替换为原创立绘或约稿。
+
+Kenney 第三方 UI / 地图素材见 Assets/ThirdParty/README_第三方素材说明.txt

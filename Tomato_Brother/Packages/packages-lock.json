@@ -237,6 +237,12 @@
       },
       "url": "https://packages.unity.cn"
     },
+    "io.uframe.unity3d-mcp": {
+      "version": "file:E:/unity_module/unity3d-mcp-master/unity3d-mcp-master/unity-package",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

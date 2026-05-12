@@ -11,6 +11,7 @@
     "com.unity.timeline": "1.7.7",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
+    "io.uframe.unity3d-mcp": "file:E:/unity_module/unity3d-mcp-master/unity3d-mcp-master/unity-package",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

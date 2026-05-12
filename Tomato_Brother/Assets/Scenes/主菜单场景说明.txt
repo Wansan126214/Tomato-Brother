@@ -1,0 +1,15 @@
+主菜单场景（开发文档「三、主菜单界面」）
+
+场景文件：Assets/Scenes/MainMenu.unity（已直接写入层级与组件，无需菜单脚本生成）
+
+使用方式：
+1. 在 Unity 项目窗口双击打开 MainMenu 场景
+2. 点击 Play 预览
+
+内容说明：
+- Canvas（Screen Space Overlay + 1920×1080 缩放）+ EventSystem
+- 像素远景底图、番茄 LOGO 与植株装饰、Kenney UI 按钮贴图
+- 四个主菜单按钮挂载 MainMenuButtonFeedback（悬浮缩放与颜色微调）
+- 右上角退出、右下角版本号
+
+若控制台仍有报错，请将完整报错文本发给我以便对照修复。
